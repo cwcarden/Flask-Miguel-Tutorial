@@ -1,1 +1,2 @@
-/.idea
+#ignore pycharm configurations
+.idea
