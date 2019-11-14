@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b4c0309-88da-4954-bab0-061b1e680e46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/microblog/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/microblog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microblog/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microblog/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/microblog/app/templates/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +21,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cardench\dev\my_project" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
